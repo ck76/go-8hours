@@ -1,5 +1,6 @@
-
 ### A Repository created for learning Golang
+
+🐰
 
 ```java
 .
